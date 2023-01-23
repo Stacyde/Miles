@@ -3,7 +3,7 @@ public class Main {
         int ticketPrice = 2_187;
         int rub = 20;
         
-        int miles = ticketPrice/rub;
+        int miles = ticketPrice / rub;
         System.out.println("Количество начисленных миль за купленный билет = " + miles);
     }
 }
