@@ -6,6 +6,6 @@ public class Main {
 
         int miles = ticketPrice/rub;
 
-        System.out.println(miles);
+        System.out.println("Количество начисленных миль за купленный билет = " + miles);
     }
 }
